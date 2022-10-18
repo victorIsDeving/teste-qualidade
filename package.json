@@ -1,0 +1,24 @@
+{
+  "name": "teste-qualidade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "dependencies": {
+    "cypress": "^10.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorIsDeving/teste-qualidade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorIsDeving/teste-qualidade/issues"
+  },
+  "homepage": "https://github.com/victorIsDeving/teste-qualidade#readme"
+}
